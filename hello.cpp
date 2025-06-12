@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-	std::cout << "hello world111" ;
+	std::cout << "hello world  my edit" ;
 	getchar();
 	return 0;
 }
